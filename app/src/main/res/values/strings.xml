@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignUp and Login</string>
+    <string name="signup_underlined"><u>SIGN UP!</u></string>
+    <string name="login_underlined"><u>LOG IN!</u></string>
+</resources>
